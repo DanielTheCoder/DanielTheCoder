@@ -6,5 +6,5 @@
 
 ## Upcoming events
 
-- List upcoming events in chronological order, with the soonest event first.
+- List known, confirmed, public-facing upcoming events individually, one event per bullet, in chronological order with the soonest first.
 - When adding an event, place it according to its date rather than appending it to the list.
