@@ -11,7 +11,7 @@ Big visions are everywhere – the hard part is the first step. I help leaders a
 - 🤝 Vice chairman of **Collaborate Vienna** – meetups on Collaborative Modelling, DDD and software architecture
 - 🎓 Lecturer for software architecture at Hochschule Campus Wien
 
-**Upcoming:** *Three Reasons to Adopt Collaborative Modelling in Software Design* – with Tom Asel at [Software Architecture Gathering 2026](https://www.software-architecture-gathering.com/speaker/daniel-sack/), Berlin, 16–19 November.
+**Upcoming:** *Three Reasons to Adopt Collaborative Modelling in Software Design* – with Tom Asel at [Software Architecture Gathering 2026](https://www.software-architecture-gathering.com/speaker/daniel-sack/), Berlin, 16–19 November; [ComoCamp 2027](https://comocamp.org), Vienna, 3–6 May.
 
 🌐 [danielsack.me](https://danielsack.me) · 💼 [LinkedIn](https://www.linkedin.com/in/daniel-sack-at)
 
